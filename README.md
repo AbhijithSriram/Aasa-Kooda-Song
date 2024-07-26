@@ -2,7 +2,7 @@
 
 This file contains the code to play the "Pirates of the Caribbean" Theme Song on a Arduino via a Buzzer
 
-Youtube in action: https://www.youtube.com/watch?v=sjPAj1lXgtk
+Youtube in action: https://www.youtube.com/shorts/vEsOTIJJDDk
 
 # 💻 Local testing
 Download Pirates_of_the_Caribbean_-_Theme_Song.ino
